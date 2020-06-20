@@ -1,5 +1,5 @@
-# Youtube-Livestream-Master
-# based and credits for: https://github.com/KevinLage/YouTube-Livestream-Botter
+# Youtube-Livestream-Master version for android coming soon
+# based and credits for: https://github.com/KevinLage/YouTube-Livestream-Botter (version in python for linux and macos)
 ![readme](https://user-images.githubusercontent.com/54437821/85193048-56349280-b282-11ea-8fb1-88117086c409.png)
 
 # How do i get the id of my live stream?
