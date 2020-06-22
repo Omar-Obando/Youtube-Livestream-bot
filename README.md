@@ -11,7 +11,7 @@ YouTube URLs look something like this => https://www.youtube.com/watch?v=L_jWHff
 Then L_jWHffIx5E would be the ID of the video.
 
 # How many views can I send?
-it depends on the power of the pc that the program is running ,important things to take into account (raam) (internet speed)
+it depends on the power of the pc that the program is running ,important things to take into account (ram) (internet speed)
 
 # recommendations for use
 Download all files from the repository for smooth operation
