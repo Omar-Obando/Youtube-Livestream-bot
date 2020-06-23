@@ -3,7 +3,7 @@
 -portable version
 -normal version
 
-![readme](https://user-images.githubusercontent.com/54437821/85193048-56349280-b282-11ea-8fb1-88117086c409.png)
+![Captura de pantalla (417)](https://user-images.githubusercontent.com/54437821/85404800-b8a8bf80-b51c-11ea-83d2-7cb6d9122165.png)
 
 # How do i get the id of my live stream?
 YouTube URLs look something like this => https://www.youtube.com/watch?v=L_jWHffIx5E
