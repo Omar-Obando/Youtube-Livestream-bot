@@ -1,5 +1,4 @@
 # Youtube-Livestream-Master for windows (version for android coming soon)
-# based and credits for: https://github.com/KevinLage/YouTube-Livestream-Botter (version in python for linux and macos)
 # This repository have 2 file for use
 -portable version
 -normal version
@@ -17,3 +16,5 @@ it depends on the power of the pc that the program is running ,important things 
 Download all files from the repository for smooth operation
 Open with administrator permissions
 I do not recommend using it on the PC that is streaming live
+
+# based and credits for: https://github.com/KevinLage/YouTube-Livestream-Botter (version in python for linux and macos)
