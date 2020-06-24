@@ -7,7 +7,7 @@
 
 # How do i get the id of my live stream?
 YouTube URLs look something like this => https://www.youtube.com/watch?v=L_jWHffIx5E
-Then L_jWHffIx5E would be the ID of the video.
+Then L_jWHffIx5E :white_check_mark: would be the ID of the video , not watch?v=L_jWHffIx5E :x:
 
 # How many views can I send?
 it depends on the power of the pc that the program is running ,important things to take into account (ram) (internet speed)
