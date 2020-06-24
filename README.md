@@ -1,7 +1,7 @@
-# Youtube-Livestream-Master for windows (version for android coming soon)
+# :white_check_mark: Youtube-Livestream-Master for windows :white_check_mark: (version for android coming soon)
 # This repository have 2 file for use
--portable version
--normal version
+-portable version :white_check_mark:
+-normal version :white_check_mark:
 
 ![Captura de pantalla (417)](https://user-images.githubusercontent.com/54437821/85404800-b8a8bf80-b51c-11ea-83d2-7cb6d9122165.png)
 
