@@ -28,7 +28,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/YouTube-Livestream-Botter.git
+git clone https://github.com/Omar-Obando/Youtube-Livestream-bot.git
 cd YouTube-Livestream-Botter
 ```
 
@@ -139,12 +139,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions are welcome. Please open an issue first to discuss the changes you would like to make.
 
-## 📞 Support
-
-For support, open an issue in the repository or contact through:
-- Email: your@email.com
-- Discord: your_discord
-
 ---
 
 # Versión en Español 🇪🇸
@@ -172,7 +166,7 @@ For support, open an issue in the repository or contact through:
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/yourusername/YouTube-Livestream-Botter.git
+git clone https://github.com/Omar-Obando/Youtube-Livestream-bot.git
 cd YouTube-Livestream-Botter
 ```
 
