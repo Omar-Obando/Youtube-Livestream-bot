@@ -92,9 +92,10 @@ Your support is important to keep the project active and constantly improving.
 ### Donation Methods:
 
 1. **Cryptocurrencies**:
-   - USDT (TRC20): `YOUR_ADDRESS`
-   - BTC: `YOUR_ADDRESS`
-   - LTC: `YOUR_ADDRESS`
+   - BTC: 1LVjbY28ojy93Y9yuJbAvLNhn1AL3sm3C6
+   - BTC (Beep20): 0xf6db2c26364035562e202c7731cee9622cfb266d
+   - USDT (TRC20): TMf4JE5vmWM5qdgJz7M3A9LpDQHVAXRmP5
+   - USDT(beep20): 0xf6db2c26364035562e202c7731cee9622cfb266d
 
 2. **Private Proxies**:
    - By purchasing proxies through our affiliate links, you automatically support the project.
@@ -235,9 +236,11 @@ Tu apoyo es importante para mantener el proyecto activo y mejorarlo constantemen
 ### Métodos de Donación:
 
 1. **Criptomonedas**:
-   - USDT (TRC20): `TU_ADDRESS`
-   - BTC: `TU_ADDRESS`
-   - LTC: `TU_ADDRESS`
+
+   - BTC: 1LVjbY28ojy93Y9yuJbAvLNhn1AL3sm3C6
+   - BTC (Beep20): 0xf6db2c26364035562e202c7731cee9622cfb266d
+   - USDT (TRC20): TMf4JE5vmWM5qdgJz7M3A9LpDQHVAXRmP5
+   - USDT(beep20): 0xf6db2c26364035562e202c7731cee9622cfb266d
 
 2. **Proxies Privados**:
    - Al comprar proxies a través de nuestros enlaces de afiliado, apoyas el proyecto automáticamente.
