@@ -278,28 +278,6 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 Las contribuciones son bienvenidas. Por favor, abre un issue primero para discutir los cambios que te gustaría hacer.
 
-## 📞 Soporte
-
-Para soporte, abre un issue en el repositorio o contacta a través de:
-- Email: tu@email.com
-- Discord: tu_discord
-
-# 1.0 Instructions for Windows (.exe / Windows Executable File)
-
- - Download the ".exe" variant of the program.
- - Double click or right click -> execute the file
- - Enter the ID of a YouTube livestream
- - Enter an amount of threads
- - See the viewers rise!
-
-# 2.0 Instructions for Windows/Linux (.py / Python)
- - Download the ".py" variant of the program.
- - Double click or right click -> edit with IDLE
- - Press "F5" to run the program
- - Enter the ID of a YouTube livestream
- - Enter an amount of threads
- - See the viewers rise!
-
 # 3.0 Whats the ID of a Livestream?
 
 YouTube URLs look something like this => https://www.youtube.com/watch?v=dQw4w9WgXcQ <br />
