@@ -109,3 +109,4 @@ https://raw.githubusercontent.com/ItzRazvyy/ProxyList/main/socks5.txt
 https://raw.githubusercontent.com/BlackSnowDot/proxylist-update-every-minute/main/http.txt
 https://raw.githubusercontent.com/BlackSnowDot/proxylist-update-every-minute/main/socks4.txt
 https://raw.githubusercontent.com/BlackSnowDot/proxylist-update-every-minute/main/socks5.txt
+https://rcloak.com/api/proxies/raw?protocol=all
